@@ -342,7 +342,7 @@
 
             .ranking-table th:nth-child(1),
             .ranking-table td:nth-child(1) {
-                width: 80px;
+                width: 150px;
             }
 
             .ranking-table th:nth-child(2),
